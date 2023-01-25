@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleHash", "DevAssignmentRay\SimpleHash.csproj", "{14E33CF4-D6B6-4EFE-AAC9-790DEBD6B5DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14E33CF4-D6B6-4EFE-AAC9-790DEBD6B5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E33CF4-D6B6-4EFE-AAC9-790DEBD6B5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E33CF4-D6B6-4EFE-AAC9-790DEBD6B5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E33CF4-D6B6-4EFE-AAC9-790DEBD6B5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {092DE8B1-82D2-4634-A384-D24CF04DDC3F}
+	EndGlobalSection
+EndGlobal
